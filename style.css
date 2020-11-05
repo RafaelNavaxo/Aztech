@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .Guerreros{
   background-image: url("img/background.png");
   background-size: 100%;
@@ -43,6 +44,41 @@ figure {
     padding: 1rem;
 }
 
+=======
+h1{
+    font-size: 50px;
+}
+#us-img{
+    width: 550px;
+    height: 500px;
+    margin-left: 30px;
+    background: url(img/us.PNG);
+}
+#us-container{
+    position: absolute;
+    width: 720px;
+    height: 450px;
+    left: 400px;
+    top: 130px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+}
+#us-text{
+    position: absolute;
+    width: 720px;
+    height: 450px;
+    font-family: Helvetica Light;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    padding: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+>>>>>>> 289391d8d4bb848fd2ded1926b358fa6d8c96b56
 .site-footer
 {
   background-color:#26272b;
