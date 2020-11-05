@@ -1,7 +1,11 @@
-.Guerreros{
+/*---.Guerreros{
   background-image: url("img/background.png");
   background-size: 100%;
   background-repeat: no-repeat;
+}--*/
+.sliderImgs{
+  width: 800px;
+  height: 450px;
 }
 .carousel-item {
   transition: -webkit-transform 0.5s ease;
@@ -173,6 +177,10 @@ h1{
   .patrocinadores{
     width: 100px;
     padding-left:10px;
+  }
+  .sliderImgs{
+    width: 600px;
+    height: 333px;
   }
 .patrocinadores1{
   height: 60px;
